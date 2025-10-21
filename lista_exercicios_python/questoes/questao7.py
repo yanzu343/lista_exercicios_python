@@ -1,5 +1,5 @@
 from .base import Questao
-from .utils import leia_float_brl,formatar_brl
+from .utils import leia_float_brl
 
 class Questao7(Questao):
     def __init__(self):
